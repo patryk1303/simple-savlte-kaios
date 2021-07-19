@@ -1,0 +1,23 @@
+{
+  "version": "0.1.0",
+  "name": "Simple Svelte KaiOS",
+  "description": "Basic KaiOS template with Svelte",
+  "type": "web",
+  "launch_path": "/index.html",
+  "icons": {
+    "56": "/assets/icons/kaios_56.png",
+    "112": "/assets/icons/kaios_112.png"
+  },
+  "developer": {
+    "name": "You",
+    "url": "https://example.com"
+  },
+  "locales": {
+    "en-US": {
+      "name": "Simple Svelte KaiOS",
+      "subtitle": "Basic KaiOS template with Svelte",
+      "description": "Basic KaiOS template with Svelte"
+    }
+  },
+  "default_locale": "en-US"
+}
